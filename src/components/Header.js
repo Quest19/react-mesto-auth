@@ -23,7 +23,7 @@ function Header(props) {
                     path="/sign-up"
                     element={
                         <Link to="/sign-in" className="header__link">
-                            Вход
+                            Войти
                         </Link>
                     }
                 />
